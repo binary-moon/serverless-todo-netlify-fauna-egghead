@@ -1,0 +1,12 @@
+{
+  "name": "serverless-todo-netlify-fauna-egghead",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/binary-moon/serverless-todo-netlify-fauna-egghead.git",
+  "author": "Emre Dokur <emre.dokur@luxuryescapes.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
